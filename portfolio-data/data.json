@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "language": "es",
+    "siteTitle": "Estrella Rosa | Portfolio",
+    "description": "Data Steward"
+  },
+  "clients": [
+    {
+      "logo": "https://drive.google.com/file/d/1VHElFIPGWor090TotnyQ1nP8G-LEN1Ll/view?usp=drive_link",
+      "name": "Digito"
+    },
+    {
+      "logo": "https://drive.google.com/file/d/1VHElFIPGWor090TotnyQ1nP8G-LEN1Ll/view?usp=drive_link",
+      "name": "Mitsui"
+    },
+    {
+      "logo": "https://drive.google.com/file/d/1VHElFIPGWor090TotnyQ1nP8G-LEN1Ll/view?usp=drive_link",
+      "name": "Stancil"
+    }
+  ],
+  "contact": {
+    "email": "angelo@gmail.com",
+    "github": "",
+    "medium": "Carck",
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/castilloperz/"
+  },
+  "profile": {
+    "name": "Estrella Rosa",
+    "photo": "https://drive.google.com/file/d/1VHElFIPGWor090TotnyQ1nP8G-LEN1Ll/view?usp=drive_link",
+    "stats": {
+      "tools": 1,
+      "years": 1,
+      "projects": 2,
+      "companies": 2
+    },
+    "title": "Data Steward",
+    "badges": [
+      "Power BI",
+      "Excel",
+      "Python",
+      "SQL"
+    ],
+    "description": "Proendata",
+    "availableText": "Disponible para proyectos"
+  },
+  "projects": [
+    {
+      "id": "proj-1772506392855",
+      "tags": [
+        "PowerBI"
+      ],
+      "badge": "Power BI",
+      "image": "",
+      "title": "Dashboard aunor",
+      "result": "carga en...",
+      "demoUrl": null,
+      "problem": "Error en carga..",
+      "category": "app",
+      "solution": "Modificación...",
+      "githubUrl": "https://github.com/AngeloCastilloPerez/AngeloCastilloPerez.github.io"
+    }
+  ],
+  "experience": [
+    {
+      "logo": "",
+      "badge": "Empresa Tec",
+      "links": [],
+      "roles": [
+        {
+          "title": "Data Steward",
+          "period": "2023-2026",
+          "skills": [
+            "Python"
+          ],
+          "isCurrent": false,
+          "description": "Hola test"
+        }
+      ],
+      "period": "2022-Presente",
+      "company": "Hero",
+      "impacts": [],
+      "location": "Lima",
+      "isCurrent": true,
+      "companyKey": "hero"
+    }
+  ]
+}
